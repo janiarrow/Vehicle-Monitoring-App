@@ -1,0 +1,283 @@
+E:\HVM\HVM\bin\Debug\HVM.exe
+E:\HVM\HVM\bin\Debug\HVM.pdb
+E:\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+E:\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+E:\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\HVM\HVM\obj\x86\Debug\HVM.exe
+E:\HVM\HVM\obj\x86\Debug\HVM.pdb
+E:\HVM\HVM\bin\Debug\AForge.Math.dll
+E:\HVM\HVM\bin\Debug\AForge.xml
+E:\HVM\HVM\bin\Debug\AForge.Controls.xml
+E:\HVM\HVM\bin\Debug\AForge.Imaging.xml
+E:\HVM\HVM\bin\Debug\AForge.Video.xml
+E:\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+E:\HVM\HVM\bin\Debug\AForge.Math.xml
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.exe
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.pdb
+D:\HVM\HVM\HVM\bin\Debug\HVM.exe
+D:\HVM\HVM\HVM\bin\Debug\HVM.pdb
+D:\HVM\HVM\HVM\bin\Debug\AForge.Math.dll
+D:\HVM\HVM\HVM\bin\Debug\AForge.xml
+D:\HVM\HVM\HVM\bin\Debug\AForge.Controls.xml
+D:\HVM\HVM\HVM\bin\Debug\AForge.Imaging.xml
+D:\HVM\HVM\HVM\bin\Debug\AForge.Video.xml
+D:\HVM\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+D:\HVM\HVM\HVM\bin\Debug\AForge.Math.xml
+D:\HVM\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\HVM\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+D:\HVM\HVM\HVM\obj\x86\Debug\HVM.VehicleMonitoring.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Math.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Controls.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Imaging.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Video.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Math.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Vision.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\AForge.Vision.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.OCR.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.Util.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\ZedGraph.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.OCR.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.Util.pdb
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\Emgu.Util.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\ZedGraph.xml
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Toshiba\Desktop\HVM\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.exe
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\HVM.exe
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\HVM.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Vision.dll
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Math.dll
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Controls.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Imaging.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Video.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Vision.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.OCR.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.OCR.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.UI.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.CV.UI.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.Util.pdb
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\Emgu.Util.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\ZedGraph.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\AForge.Math.xml
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+D:\Project\V 2.0.2\HVM\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Project\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+C:\Users\Toshiba\Desktop\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\V 2.0.2\HVM\HVM\obj\x86\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Vision.dll
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Math.dll
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Controls.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Imaging.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Video.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Vision.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.OCR.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.Util.pdb
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\Emgu.Util.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\ZedGraph.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\AForge.Math.xml
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Toshiba\Desktop\V 3.0\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\HVM.exe
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\HVM.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Vision.dll
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Math.dll
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Controls.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Imaging.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Video.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Vision.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.OCR.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.OCR.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.UI.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.Util.pdb
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\Emgu.Util.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\ZedGraph.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\AForge.Math.xml
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.HistoryRecords.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.OwnerHistory.resources
+C:\Users\Toshiba\Desktop\V 3.1\HVM\HVM\obj\x86\Debug\HVM.SystemSettings.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.exe
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\HVM.exe
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\HVM.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Vision.dll
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Controls.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Imaging.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Video.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Video.DirectShow.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Vision.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.OCR.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.OCR.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.UI.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.CV.UI.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.Util.pdb
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\Emgu.Util.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\ZedGraph.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\AForge.Math.xml
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.HistoryRecords.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.OwnerHistory.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SystemSettings.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Arosha\Desktop\jili\V 3.2\HVM\HVM\obj\x86\Debug\HVM.CameraSettings.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\bin\Debug\HVM.exe
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\bin\Debug\HVM.pdb
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.CameraSettings.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.HistoryRecords.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.Main.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.OwnerHistory.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.SystemSettings.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.txtDate.resources
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.csproj.GenerateResource.Cache
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.exe
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.pdb
+D:\ICONCEPT\STUDENT PROJECTS\AROSHA\Arosha\V 3.2\HVM\HVM\obj\x86\Debug\HVM.test.resources
+L:\HVM\obj\x86\Debug\HVM.exe
+L:\HVM\obj\x86\Debug\HVM.pdb
+L:\HVM\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\HVM\obj\x86\Debug\HVM.CameraSettings.resources
+L:\HVM\obj\x86\Debug\HVM.EmailSystem.resources
+L:\HVM\obj\x86\Debug\HVM.HistoryRecords.resources
+L:\HVM\obj\x86\Debug\HVM.Main.resources
+L:\HVM\obj\x86\Debug\HVM.NumberPlateRecognition.resources
+L:\HVM\obj\x86\Debug\HVM.OwnerHistory.resources
+L:\HVM\obj\x86\Debug\HVM.SpeedDetection.resources
+L:\HVM\obj\x86\Debug\HVM.Properties.Resources.resources
+L:\HVM\obj\x86\Debug\HVM.SystemLogin.resources
+L:\HVM\obj\x86\Debug\HVM.SystemSettings.resources
+L:\HVM\obj\x86\Debug\HVM.VehicleIdentification.resources
+L:\HVM\obj\x86\Debug\HVM.txtDate.resources
+L:\HVM\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\HVM\obj\x86\Debug\GenerateResource.write.1.tlog
+L:\HVM\bin\Debug\HVM.exe
+L:\HVM\bin\Debug\HVM.pdb
+L:\HVM\bin\Debug\AForge.Math.dll
+L:\HVM\bin\Debug\AForge.Vision.dll
+L:\HVM\bin\Debug\AForge.xml
+L:\HVM\bin\Debug\AForge.Controls.xml
+L:\HVM\bin\Debug\AForge.Imaging.xml
+L:\HVM\bin\Debug\AForge.Math.xml
+L:\HVM\bin\Debug\AForge.Video.xml
+L:\HVM\bin\Debug\AForge.Video.DirectShow.xml
+L:\HVM\bin\Debug\AForge.Vision.xml
+L:\HVM\bin\Debug\Emgu.CV.pdb
+L:\HVM\bin\Debug\Emgu.CV.xml
+L:\HVM\bin\Debug\Emgu.CV.OCR.pdb
+L:\HVM\bin\Debug\Emgu.CV.OCR.xml
+L:\HVM\bin\Debug\Emgu.CV.UI.pdb
+L:\HVM\bin\Debug\Emgu.CV.UI.xml
+L:\HVM\bin\Debug\Emgu.Util.pdb
+L:\HVM\bin\Debug\Emgu.Util.xml
+L:\HVM\bin\Debug\ZedGraph.xml
+L:\HVM\bin\Debug\zh-CN\Emgu.CV.UI.resources.dll
+L:\HVM\bin\Debug\zh-CN\ZedGraph.resources.dll

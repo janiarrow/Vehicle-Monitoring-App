@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="HVM">
+</Property><Property Name="Solution File" Value="L:\HVM\HVM.sln">
+</Property><Property Name="User Options File" Value="L:\HVM\HVM.suo">
+</Property><Property Name="Date" Value="Tuesday, August 28, 2012">
+</Property><Property Name="Time" Value="9:19 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="HVM.sln" Description="File successfully backed up as L:\HVM\Backup\HVM.sln">
+</Event><Event ErrorLevel="0" Project="" Source="HVM.suo" Description="File successfully backed up as L:\HVM\Backup\HVM.suo">
+</Event><Event ErrorLevel="0" Project="HVM" Source="HVM.csproj" Description="Project file successfully backed up as L:\HVM\Backup\HVM.csproj">
+</Event><Event ErrorLevel="0" Project="HVM" Source="CameraSettings.cs" Description="File successfully backed up as L:\HVM\Backup\CameraSettings.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="CameraSettings.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\CameraSettings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="EmailSystem.cs" Description="File successfully backed up as L:\HVM\Backup\EmailSystem.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="EmailSystem.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\EmailSystem.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="HistoryRecords.cs" Description="File successfully backed up as L:\HVM\Backup\HistoryRecords.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="HistoryRecords.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\HistoryRecords.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="LicensePlateDetector.cs" Description="File successfully backed up as L:\HVM\Backup\LicensePlateDetector.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Main.cs" Description="File successfully backed up as L:\HVM\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Main.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="NumberPlateRecognition.cs" Description="File successfully backed up as L:\HVM\Backup\NumberPlateRecognition.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="NumberPlateRecognition.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\NumberPlateRecognition.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="OwnerHistory.cs" Description="File successfully backed up as L:\HVM\Backup\OwnerHistory.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="OwnerHistory.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\OwnerHistory.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SpeedDetection.cs" Description="File successfully backed up as L:\HVM\Backup\SpeedDetection.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SpeedDetection.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\SpeedDetection.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Program.cs" Description="File successfully backed up as L:\HVM\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as L:\HVM\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemLogin.cs" Description="File successfully backed up as L:\HVM\Backup\SystemLogin.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemLogin.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\SystemLogin.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemSettings.cs" Description="File successfully backed up as L:\HVM\Backup\SystemSettings.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemSettings.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\SystemSettings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="test.cs" Description="File successfully backed up as L:\HVM\Backup\test.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="test.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\test.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleIdentification.cs" Description="File successfully backed up as L:\HVM\Backup\VehicleIdentification.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleIdentification.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\VehicleIdentification.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleMonitoring.cs" Description="File successfully backed up as L:\HVM\Backup\VehicleMonitoring.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleMonitoring.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\VehicleMonitoring.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as L:\HVM\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Properties\Settings.settings" Description="File successfully backed up as L:\HVM\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\SpeedMeter.png" Description="File successfully backed up as L:\HVM\Backup\Images\SpeedMeter.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\Bottom.png" Description="File successfully backed up as L:\HVM\Backup\Images\Bottom.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\Side.png" Description="File successfully backed up as L:\HVM\Backup\Images\Side.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\SideButton.png" Description="File successfully backed up as L:\HVM\Backup\Images\SideButton.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\BottomButton.png" Description="File successfully backed up as L:\HVM\Backup\Images\BottomButton.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Images\MainWithBG.jpg" Description="File successfully backed up as L:\HVM\Backup\Images\MainWithBG.jpg">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Resources\img1.png" Description="File successfully backed up as L:\HVM\Backup\Resources\img1.png">
+</Event><Event ErrorLevel="0" Project="HVM" Source="CameraSettings.resx" Description="File successfully backed up as L:\HVM\Backup\CameraSettings.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="EmailSystem.resx" Description="File successfully backed up as L:\HVM\Backup\EmailSystem.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="HistoryRecords.resx" Description="File successfully backed up as L:\HVM\Backup\HistoryRecords.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Main.resx" Description="File successfully backed up as L:\HVM\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="NumberPlateRecognition.resx" Description="File successfully backed up as L:\HVM\Backup\NumberPlateRecognition.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="OwnerHistory.resx" Description="File successfully backed up as L:\HVM\Backup\OwnerHistory.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SpeedDetection.resx" Description="File successfully backed up as L:\HVM\Backup\SpeedDetection.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="Properties\Resources.resx" Description="File successfully backed up as L:\HVM\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemLogin.resx" Description="File successfully backed up as L:\HVM\Backup\SystemLogin.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="SystemSettings.resx" Description="File successfully backed up as L:\HVM\Backup\SystemSettings.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="test.resx" Description="File successfully backed up as L:\HVM\Backup\test.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleIdentification.resx" Description="File successfully backed up as L:\HVM\Backup\VehicleIdentification.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="VehicleMonitoring.resx" Description="File successfully backed up as L:\HVM\Backup\VehicleMonitoring.resx">
+</Event><Event ErrorLevel="0" Project="HVM" Source="HVM.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="HVM" Source="HVM.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="HVM.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="HVM.sln" Description="Converted">
+</Event></UpgradeLog>
